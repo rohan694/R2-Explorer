@@ -30,7 +30,8 @@
 			"@parcel/watcher",
 			"esbuild",
 			"vue-demi",
-			"workerd"
+			"workerd",
+			"sharp"
 		]
 	}
 }
